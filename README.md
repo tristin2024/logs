@@ -6,9 +6,9 @@
 示例：
 
 ```
-go get -u git.beeps.cn/jiazujiang/logs
+go get -u github.com/tristin2024/logs
 
-import "git.beeps.cn/jiazujiang/logs"
+import "github.com/tristin2024/logs"
 
 logs.Std.Info("test log")
 ```
